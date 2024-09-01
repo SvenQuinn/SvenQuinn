@@ -7,6 +7,5 @@
 - ⚡ Fun fact: I enjoy different challenges and like to keep learning.
 - 🔗 TryHackMe: https://tryhackme.com/p/SvenQuinn 
 <span style="color: red;">text</span>  
-SvenQuinn/SvenQuinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
